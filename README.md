@@ -10,8 +10,7 @@
 2. Створити віртуальне середовище:
    ```bash
    python -m venv venv
-   source venv/bin/activate  # Для Linux/Mac
-   venv\Scripts\activate     # Для Windows
+   venv\Scripts\activate  # Для Windows
    ```
 
 3. Встановити залежності:
